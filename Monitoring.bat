@@ -1,1 +1,1 @@
-"C:\Program Files\Python311\python.exe" "C:\Users\esisvc\Projects\Workflow_monitoring\bin\task_dump.py"
+"path to python"       "path to python executable"
